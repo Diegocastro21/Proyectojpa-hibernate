@@ -4,8 +4,8 @@ Proyecto JPA + Hibernate basico haciendo las operaciones básicas y consultas co
 para el servidor MySQL
 
 ### Practica JPA + Hibernate
-Creación de Entidades
-EntityManager EntityManagerFactory Persistence.xml
-Anotaciones Fundamentales
-Operaciones Básicas 
-Manejo de Scripts
+* Creación de Entidades
+* EntityManager EntityManagerFactory Persistence.xml
+* Anotaciones Fundamentales
+* Operaciones Básicas 
+* Manejo de Scripts
